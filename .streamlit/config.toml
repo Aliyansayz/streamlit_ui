@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#00ffff"  # Blue neon
+backgroundColor="#020e01"  # Very dark green military
+secondaryBackgroundColor="#013220"  # Slightly different shade of dark green
+textColor="#ffffff"  # White text
+font="calibri"
